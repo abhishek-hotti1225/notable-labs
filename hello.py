@@ -1,4 +1,4 @@
 def hello():
-    print("hwllo world") # asdfasdf asdfasdf asdf
+    print("hwllo world")
 
 hello()
